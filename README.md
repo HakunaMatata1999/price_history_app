@@ -1,5 +1,5 @@
 # price_history_app
-<p>A Python application used export equity trade history into a CSV file.</p>
+<p>A Python application used to export equity, ETF and Mutual Fund trade history into a CSV file.</p>
 
 
 <h2>Installation instructions:</h2>
