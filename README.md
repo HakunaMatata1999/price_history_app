@@ -9,11 +9,11 @@
 <p>Double click on 'historical_pricing_app.exe'.</p>
 
 <h2>How to use:</h2>
-<p>Step 1. Enter desired date range.  Click Submit Dates. If an invalid date was entered, a warning will populate.</p><br>
-<p>Step 2. Add equities and ETFs to ticker table by typing the desired symbol into the Ticker Symbol field. Click "Add Ticker".</p><br>
-<p> 2a. To remove a symbol from the  Table, type it into the Ticker Symbol field. Click "Remove Ticker" Button.</p><br>
-<p>Step 3. Click "Request Tickers" button to download the requested data.</p><br>
-<p>Step 4. Navigate to the app directory. A CSV file name "Ticker_Table" with the current date will be saved.</p><br>
+<ul><li><p>Step 1. Enter desired date range.  Click Submit Dates. If an invalid date was entered, a warning will populate.</p><br></li>
+<li><p>Step 2. Add equities and ETFs to ticker table by typing the desired symbol into the Ticker Symbol field. Click "Add Ticker".</p></li>
+<li><p> 2a. To remove a symbol from the  Table, type it into the Ticker Symbol field. Click "Remove Ticker" Button.</p></li>
+<li><p>Step 3. Click "Request Tickers" button to download the requested data.</p></li>
+<li><p>Step 4. Navigate to the app directory. A CSV file name "Ticker_Table" with the current date will be saved.</p></li></ul><br>
 
 
 <p>Need to add additional tickers? No sweat, add or remove additional tickers using Step 2. Click "Request Tickers" and the data will append to your existing file.</p>
