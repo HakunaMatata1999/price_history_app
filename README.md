@@ -9,7 +9,7 @@
 <p>Double click on 'historical_pricing_app.exe'.</p>
 
 <h2>How to use:</h2>
-<ul><li><p>Step 1. Enter desired date range.  Click Submit Dates. If an invalid date was entered, a warning will populate.</p><br></li>
+<ul><li><p>Step 1. Enter desired date range.  Click Submit Dates. If an invalid date was entered, a warning will populate.</p></li>
 <li><p>Step 2. Add equities and ETFs to ticker table by typing the desired symbol into the Ticker Symbol field. Click "Add Ticker".</p></li>
 <li><p> 2a. To remove a symbol from the  Table, type it into the Ticker Symbol field. Click "Remove Ticker" Button.</p></li>
 <li><p>Step 3. Click "Request Tickers" button to download the requested data.</p></li>
