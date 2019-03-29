@@ -1,6 +1,7 @@
 # price_history_app
 <p>A Python application used to export equity, ETF and Mutual Fund trade history into a CSV file.</p>
-
+<p><strong>***BUGS DISOVERED IN APP WHEN USERS SUBMIT</strong></p>
+<p>Currently researching a few bugs with the Price History App due to some instabillities with Tkinter and Cx_Freeze. The Command line version has been tested and deployed succesfully.</p>
 
 <h2>Installation instructions:</h2>
 <p>Download the files into a destination directory.</p>
